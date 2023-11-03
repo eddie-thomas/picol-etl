@@ -1,0 +1,15 @@
+{
+  "name": "wsu_picol_data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edward Thomas",
+  "license": "ISC",
+  "dependencies": {
+    "@semantic-arts/rdfjs": "file:../dca/packages/rdfjs",
+    "n3": "^1.17.2"
+  }
+}

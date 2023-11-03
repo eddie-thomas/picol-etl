@@ -1,0 +1,9 @@
+.venv
+.vscode
+node_modules
+tmp
+all_product_data.json
+CompanyData.json
+Crops.json
+Pest.json
+Organic.json
